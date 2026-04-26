@@ -1,0 +1,16 @@
+{
+  "name": "bot-belajaryuk",
+  "version": "1.0.0",
+  "description": "API dan Bot Telegram untuk kontrol aplikasi Belajar Yuk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.65.0"
+  },
+  "author": "King Haidar",
+  "license": "ISC"
+}
